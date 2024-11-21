@@ -1,0 +1,14 @@
+#logo{
+    display: inline;
+}
+nav{
+    flex: auto;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+
