@@ -11,4 +11,30 @@ li{
     display: inline;
     padding: 10px;
 }
-
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    background-color: rgb(248, 242, 242);
+    padding: 10px;
+    border-radius: 10px;
+    color: blueviolet;
+}
+header{
+    background-color: rgb(75, 75, 75);
+    
+}
+input{
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    padding: 5px;
+}
+button{
+    border: none;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+    padding: 5px;
+}
